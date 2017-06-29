@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+      
+}
+
+
+header, h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:50px;
+    color:white;
+    text-align:center;
+}
+
+.par1{
+    font-size:16px;
+    color:aquamarine;
+}
+
+.video1{
+  margin-left:800px;
+  margin-right: 800px;
+  height: 800px;
+  
+}
+
+.img1{
+    margin-left:500px;
+    margin-right:800px;
+}
+
+.img2{
+   margin-left:900px;
+   margin-right:400px;
+   margin-top: 50px;
+}
+
+.par2{
+    color:aquamarine;
+    text-align:center;
+}
+
+.par3{
+    text-align:right;
+    color:grey;
+    margin-right: 10px;
+}
+
+.par4{
+    color:grey;
+    text-align: center;
+}
